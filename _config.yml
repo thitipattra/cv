@@ -1,0 +1,14 @@
+title: Thitipattra Buabanprom  # You can add your name here
+
+# logo: my-profile.png # Use a relative path to logo image 
+
+description: A static website driven by Jekyll 
+
+show_downloads: true # Fix spelling
+
+theme: jekyll-theme-minimal 
+
+plugins:
+  - jekyll-seo-tag # Add SEO plugin
+
+email: thitipattra.22bow@gmail.com # 
