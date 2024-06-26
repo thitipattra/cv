@@ -6,7 +6,7 @@ description: A static website driven by Jekyll
 
 show_downloads: true # Fix spelling
 
-theme: jekyll-sass-converter 
+theme: jekyll-theme-midnight 
 
 plugins:
   - jekyll-seo-tag # Add SEO plugin
